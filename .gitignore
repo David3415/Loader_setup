@@ -4,15 +4,11 @@
 .vs
 x64
 .sln
+
 Loader_setup/64/*
 Loader_setup/.filters
-Loader_setup/.vcxproj
-Loader_setup/.vcxproj.user
-Loader_setup/.vcxproj
-Loader_setup/.vcxproj.filters
 Loader_setup/.user
 Loader_setup/.vcxproj
-
 # Compiled Object files
 *.slo
 *.lo
