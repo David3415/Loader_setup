@@ -1,0 +1,44 @@
+# Prerequisites
+*.d
+.git
+.vs
+x64
+.sln
+Loader_setup/64/*
+Loader_setup/.filters
+Loader_setup/.vcxproj
+Loader_setup/.vcxproj.user
+Loader_setup/.vcxproj
+Loader_setup/.vcxproj.filters
+Loader_setup/.user
+Loader_setup/.vcxproj
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
